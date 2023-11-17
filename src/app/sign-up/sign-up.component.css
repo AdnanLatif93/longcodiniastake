@@ -1,22 +1,21 @@
 #sign-up {
-
-    .signup-clr {
-        color: var(--clr-primary-300)
-    }
-    .container .icon{
-        position: relative;
-        float: left;
-        margin-left: 8px;
-        margin-top: -28px;
-        z-index: 2;
-        color: #222222;
-        width: 20px;
-        height: 20px;
-    }
+  .signup-clr {
+    color: var(--clr-primary-300);
+  }
+  .container .icon {
+    position: relative;
+    float: left;
+    margin-left: 8px;
+    margin-top: -28px;
+    z-index: 2;
+    color: #222222;
+    width: 20px;
+    height: 20px;
+  }
 }
 
 @media (min-width: 1025px) {
-    .h-custom {
-        height: 100vh !important;
-    }
+  .h-custom {
+    height: 100vh !important;
+  }
 }

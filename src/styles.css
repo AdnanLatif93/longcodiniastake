@@ -156,8 +156,8 @@ svg {
 
 .emphasized-italic { font-style: italic; }
 
-.container input,
-.container textarea {
+.container1 input,
+.container1 textarea {
   padding-left: 32px;
   border-radius: 0px;
 }

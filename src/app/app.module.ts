@@ -7,13 +7,15 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { SignUpComponent } from './sign-up/sign-up.component';
 import { HomepageComponent } from './homepage/homepage.component';
 import { TopnavComponent } from './topnav/topnav.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SignUpComponent,
     HomepageComponent,
-    TopnavComponent
+    TopnavComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
